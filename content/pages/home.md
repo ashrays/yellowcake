@@ -1,30 +1,18 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: 
+featuredImage: 'https://lucidpos.com/wp-content/uploads/2013/08/slide3-24.jpg'
+
+subtitle: ''
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Established in the year 2001, LUCID is a leading Hotel and Restaurant Software Company head quartered in Bangalore, India with support offices and partners across India and many other countries. LUCID’s flag ship product LUCID PROMIS™ offers comprehensive software solutions for Hotels, Resorts and Serviced Apartments, while LUCID POS provides a 360⁰ Software Solution to all formats of Restaurant Business.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+LUCID has credentials of being the first in the country to introduce revolutionary products like LUCID BUSINESS ANALYTICS “The first comprehensive BI (Business Intelligence) solution for Hotels and LUCID MESSENGER “A 2 way e-CRM based SMS messaging solution for Hotels and Restaurants.”
 
-# Features
+Specialties
+Hotel Management Software, Restaurant Management Software, Property Management System, Hotel & Restaurant ERP
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
